@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\calculadoradolelo\bin\Debug\net6.0\calculadoradolelo.exe
+C:\Users\User\source\repos\calculadoradolelo\bin\Debug\net6.0\calculadoradolelo.deps.json
+C:\Users\User\source\repos\calculadoradolelo\bin\Debug\net6.0\calculadoradolelo.runtimeconfig.json
+C:\Users\User\source\repos\calculadoradolelo\bin\Debug\net6.0\calculadoradolelo.dll
+C:\Users\User\source\repos\calculadoradolelo\bin\Debug\net6.0\calculadoradolelo.pdb
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\calculadoradolelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\calculadoradolelo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\calculadoradolelo.AssemblyInfo.cs
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\calculadoradolelo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\calculadoradolelo.dll
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\refint\calculadoradolelo.dll
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\calculadoradolelo.pdb
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\calculadoradolelo.genruntimeconfig.cache
+C:\Users\User\source\repos\calculadoradolelo\obj\Debug\net6.0\ref\calculadoradolelo.dll
